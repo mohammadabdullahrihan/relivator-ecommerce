@@ -51,6 +51,3 @@ If you found Relivator helpful, please consider:
 | `bun latest`         | Updates all dependencies                       |
 | `bun check`          | Runs type checks, linting, and formatting      |
 
-## License
-
-MIT © [blefnk Nazar Kornienko](https://github.com/blefnk)
